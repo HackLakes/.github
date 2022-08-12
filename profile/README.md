@@ -1,6 +1,6 @@
 # ✈️YYZHacks
 ### Introduction
-- 12 hour hackathon (Sam mentioned this) 
+- 12 hour hackathon 
 - 30-50 people hackathon
 - Hackathon theme or idea hasn't been decided on yet
 - Somewhhere in Downtown Toronto or Missisauga
